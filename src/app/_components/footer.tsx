@@ -59,9 +59,9 @@ export function Footer() {
 
           <div>
             <h3 className='text-2xl font-semibold mb-2'>Contatos</h3>
-            <p>Email: teste@teste.com</p>
-            <p>Telefone: (XX) 1231831238</p>
-            <p>Rua X, centro, Campo Grande | MS</p>
+            <p>Email: contato@petdev.com.br</p>
+            <p>Telefone: (XX) 999999999</p>
+            <p>Rua XIV, Campos do Jordão | SP</p>
           </div>
 
 
